@@ -1,3 +1,7 @@
+### Deprecated Version!
+This program was forked to enable hardware decoding for the Raspberry Pi. Since that feature is now pulled into the master branch, you should use https://github.com/erikkaashoek/Comskip instead. This fork is archived and will not receive any further updates!
+
+
 ## Comskip
 
 Commercial detector
